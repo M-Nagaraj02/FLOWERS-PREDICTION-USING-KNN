@@ -36,10 +36,10 @@ from sklearn.datasets import load_iris
 Dataset = load_iris()
 ```
 **2️⃣ Feature & Target Separation**
-
+```
 X = Dataset.data
 y = Dataset.target
-
+```
 **3️⃣ Train-Test Split**
 
 * 80% Training Data
@@ -81,10 +81,10 @@ Accuracy = 1.0 (100%)
 ---
 ## 📋 Classification Report
 ```
-Class	Precision	Recall	F1-Score
-Setosa	1.00	1.00	1.00
-Versicolor	1.00	1.00	1.00
-Virginica	1.00	1.00	1.00
+Class      	Precision Recall	F1-Score
+Setosa	        1.00	   1.00	   1.00
+Versicolor    	1.00	   1.00	   1.00
+Virginica     	1.00	   1.00	   1.00
 ```
 ---
 ## 🔲 Confusion Matrix

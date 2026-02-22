@@ -81,7 +81,7 @@ Accuracy = 1.0 (100%)
 ---
 ## 📋 Classification Report
 ```
-Class      	Precision   Recall 	F1-Score
+Class      	Precision      Recall 	F1-Score
 Setosa	        1.00	   1.00	   1.00
 Versicolor    	1.00	   1.00	   1.00
 Virginica     	1.00	   1.00	   1.00
